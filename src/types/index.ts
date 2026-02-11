@@ -139,7 +139,7 @@ export const DEFAULT_SETTINGS: Settings = {
     autoDetectName: true,
     theme: 'default',
     opacity: 100,
-    language: 'en',
+    language: 'cn',
     decimalPrecision: 0,
     useThousandSeparator: true,
     useCompactNumbers: false,
