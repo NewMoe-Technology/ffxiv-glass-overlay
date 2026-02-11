@@ -15,7 +15,7 @@ function fixFileProtocol(): Plugin {
 
 export default defineConfig({
   plugins: [react(), fixFileProtocol()],
-  base: '/ffxiv-glass-overlay/',
+  base: '',
   build: {
     outDir: 'build',
     modulePreload: {
